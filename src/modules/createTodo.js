@@ -36,6 +36,7 @@ class CreateItem {
       } else {
         this.description[0].value = 'Empty Value';
       }
+      
       this.showList();
       submitForm.reset();
     });

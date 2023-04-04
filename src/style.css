@@ -8,6 +8,10 @@ body {
   font-size: 16px;
 }
 
+.dot {
+  align-self: start;
+}
+
 .container {
   padding: 70px;
 }

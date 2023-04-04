@@ -36,6 +36,7 @@ class Operation {
       });
     });
   }
+  
 
   static completedTodo(completed) {
     completed.forEach((completedItem, i) => {
