@@ -8,6 +8,10 @@ body {
   font-size: 16px;
 }
 
+.dot {
+  align-self: start;
+}
+
 .container {
   padding: 70px;
 }
@@ -130,5 +134,9 @@ ul li {
 @media (max-width: 768px) {
   .card {
     width: 100%;
+  }
+
+  .container {
+    padding: 20px;
   }
 }

@@ -4,6 +4,7 @@ class ShowItem {
   constructor(list) {
     this.list = list;
   }
+  
 
   showListItem() {
     this.list.innerHTML = '';
